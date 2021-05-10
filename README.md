@@ -22,3 +22,6 @@ This case study aims to identify patterns which indicate if a client has difficu
 
 
 project file - `eda_defaulters.ipynb`
+
+
+Note: since the datsets are too huge, they have been uploaded in gdrive (https://drive.google.com/drive/folders/1GS60lYxJheXqIYr9dkZFwR7lzvlvDfTp?usp=sharing)
