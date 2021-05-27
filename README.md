@@ -25,3 +25,6 @@ project file - `eda_defaulters.ipynb`
 
 
 Note: since the datsets are too huge, they have been uploaded in gdrive (https://drive.google.com/drive/folders/1GS60lYxJheXqIYr9dkZFwR7lzvlvDfTp?usp=sharing)
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKaushalKrishna%2FEDA_loan_defaulters&count_bg=%2379C83D&title_bg=%23555555&icon=darkreader.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
